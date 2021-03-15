@@ -3,7 +3,7 @@ Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
-# Krishnamurti project
+# Krishnamurti The Book of Life
 
 ![coursera image](images/k.png)
 
@@ -15,4 +15,10 @@ Learn everything you need to about the subject of this `Krishnamurti` project.
 
 ## Topics
 ```
+March
+ Dependence
+ Attachment
+ Relationship
+  [x] 2021-03-15 Relationship is a mirror
+ Fear
 ```
