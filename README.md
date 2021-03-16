@@ -20,5 +20,6 @@ March
  Attachment
  Relationship
   [x] 2021-03-15 Relationship is a mirror
+  [x] 2021-03-16 The function of relationship
  Fear
 ```
