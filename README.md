@@ -29,4 +29,5 @@ March
   [x] 2021-03-22 Freedom from fear 
   [x] 2021-03-23 Dealing with fear?
   [x] 2021-03-24 The door to understanding
+  [ ] 2021-03-25 Fear makes us obey
   ```
