@@ -31,4 +31,5 @@ March
   [x] 2021-03-24 The door to understanding
   [x] 2021-03-25 Fear makes us obey
   [x] 2021-03-26 Face-to-face with the fact
+  [x] 2021-03-27 Contacting fear
   ```
