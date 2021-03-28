@@ -32,4 +32,5 @@ March
   [x] 2021-03-25 Fear makes us obey
   [x] 2021-03-26 Face-to-face with the fact
   [x] 2021-03-27 Contacting fear
+  [x] 2021-03-28 Fear is non-acceptance of what is
   ```
