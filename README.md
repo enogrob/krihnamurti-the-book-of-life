@@ -37,4 +37,8 @@ March
   [x] 2021-03-30 How do I look at anger?
   [x] 2021-03-31 The root of all fear
   [x] 2021-04-01 There is only craving
+  [ ] 2021-04-02 Understanding desire
+  [x] 2021-04-03 Desire has to be understood
+  [x] 2021-04-04 The quality of desire
+  [x] 2021-04-05 Why shouldn’t one have pleasure?
   ```
