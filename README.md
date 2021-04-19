@@ -52,4 +52,5 @@ March
   [x] 2021-04-10 We have made sex a problem 
   [x] 2021-04-13 Love is not a duty
   [x] 2021-04-17 To love is to be chaste.
+  [x] 2021-04-19 The idealist cannot know love
   ```
