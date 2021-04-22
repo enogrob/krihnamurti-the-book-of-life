@@ -37,6 +37,7 @@ March
   [x] 2021-03-30 How do I look at anger?
   [x] 2021-03-31 The root of all fear
 
+April
   Desire
   [x] 2021-04-01 There is only craving
   [x] 2021-04-02 Understanding desire
@@ -53,4 +54,7 @@ March
   [x] 2021-04-13 Love is not a duty
   [x] 2021-04-17 To love is to be chaste.
   [x] 2021-04-19 The idealist cannot know love
+
+  Passion
+  [x] 2021-04-22 Total abandonment
   ```
