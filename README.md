@@ -60,4 +60,5 @@ April
   [x] 2021-04-23 This pure flame of passion
   [x] 2021-04-24 Beauty beyond feeling
   [x] 2021-04-25 A passion for everything
+  [x] 2021-04-26 Love, I assure you, is passion
   ```
