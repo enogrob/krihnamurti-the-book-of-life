@@ -65,4 +65,7 @@ April
   [x] 2021-04-28 Petty Mind
   [x] 2021-04-29 Lost passion
   [x] 2021-04-30 Passion without a cause
+
+  Intelligence
+  [X] 2021-05-03 Feeling intelligence
   ```
