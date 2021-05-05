@@ -68,4 +68,6 @@ April
 
   Intelligence
   [X] 2021-05-03 Feeling intelligence
+  [x] 2021-05-04 Intellect vs. intelligence
+  [x] 2021-05-05 Sentiment and emotion breed cruelty
   ```
