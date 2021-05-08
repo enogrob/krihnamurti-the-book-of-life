@@ -69,7 +69,10 @@ April
   Intelligence
   [X] 2021-05-03 Feeling intelligence
   [x] 2021-05-04 Intellect vs. intelligence
+
+  Feelings
   [x] 2021-05-05 Sentiment and emotion breed cruelty
   [x] 2021-05-06 We must die to all our emotions
   [x] 2021-05-07 One must have great feelings
+  [x] 2021-05-08 Observation without thought 
   ```
