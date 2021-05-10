@@ -75,4 +75,6 @@ April
   [x] 2021-05-06 We must die to all our emotions
   [x] 2021-05-07 One must have great feelings
   [x] 2021-05-08 Observation without thought 
+  [x] 2021-05-09 The totality of feeling  
+  [x] 2021-05-10 If you do not name that feeling
   ```
