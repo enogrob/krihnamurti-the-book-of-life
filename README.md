@@ -83,5 +83,6 @@ April
   [x] 2021-05-15 Understanding Words
   [x] 2021-05-17 Words create limitations
   [x] 2021-05-18 Going beyond words
-  [x] 2021-05-19 Extraordinary seeing 
+  [x] 2021-05-19 Extraordinary seeing
+  [x] 2021-05-24 Awareness may burn away the problems 
   ```
