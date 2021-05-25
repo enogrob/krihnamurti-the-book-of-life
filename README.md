@@ -84,5 +84,8 @@ April
   [x] 2021-05-17 Words create limitations
   [x] 2021-05-18 Going beyond words
   [x] 2021-05-19 Extraordinary seeing
-  [x] 2021-05-24 Awareness may burn away the problems 
+  [x] 2021-05-24 Awareness may burn away the problems
+
+  Conditioning
+  [x] 2021-05-25 There is no noble or better conditioning 
   ```
