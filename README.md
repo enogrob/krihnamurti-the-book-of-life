@@ -89,4 +89,5 @@ April
   Conditioning
   [x] 2021-05-25 There is no noble or better conditioning 
   [x] 2021-05-26 Freedom from conditioning
+  [x] 2021-05-27 Simple Awareness
   ```
