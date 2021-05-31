@@ -92,4 +92,6 @@ April
   [x] 2021-05-27 Simple Awareness
   [x] 2021-05-28 No part of the mind is unconditioned
   [x] 2021-05-29 The burden of the unconscious
+  [x] 2021-05-30 The interval between thoughts
+  [x] 2021-05-31 Observe how habits are formed
   ```
