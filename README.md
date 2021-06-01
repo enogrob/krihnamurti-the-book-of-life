@@ -94,4 +94,8 @@ April
   [x] 2021-05-29 The burden of the unconscious
   [x] 2021-05-30 The interval between thoughts
   [x] 2021-05-31 Observe how habits are formed
+
+June
+  Energy
+  [x] 2021-06-01 Energy creates its own discipline
   ```
