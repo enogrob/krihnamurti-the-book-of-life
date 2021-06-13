@@ -101,4 +101,7 @@ June
 
   Attention
   [x] 2021-06-10 An attention that is not exclusive
+  [x] 2021-06-11 Attention is limitless, without frontiers 
+  [x] 2021-06-12 Complete attention 
+  [x] 2021-06-13 Elimination of fear is the beginning of attention
   ```
