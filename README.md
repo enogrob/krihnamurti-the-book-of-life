@@ -104,4 +104,9 @@ June
   [x] 2021-06-11 Attention is limitless, without frontiers 
   [x] 2021-06-12 Complete attention 
   [x] 2021-06-13 Elimination of fear is the beginning of attention
+
+  Awareness
+  [x] 2021-06-14 There is no place at which to arrive
+  [x] 2021-06-15 Knowledge is not awareness
+
   ```
