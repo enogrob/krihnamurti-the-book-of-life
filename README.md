@@ -108,5 +108,6 @@ June
   Awareness
   [x] 2021-06-14 There is no place at which to arrive
   [x] 2021-06-15 Knowledge is not awareness
+  [x] 2021-06-16 Introspection is imcomplete
 
   ```
